@@ -2,7 +2,7 @@
 Some of the popular ML Models   
 
 
-1) Gold price prediction - predicts price of gold based on certain values.  
+1) Gold price prediction - predicts price of gold based on certain parameters.  
     Dataset:https://www.kaggle.com/altruistdelhite04/gold-price-data    
     Overview of data: This data file is a Comma separated value file format with 2290 rows and 7 columns. It contains 5 columns which are numerical in datatype and one     column in Date format. Clearly the data shows value of the variables SPX,GLD,USO,SLV,EUR/USD against the dates in the date column.  
    
