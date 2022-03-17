@@ -9,7 +9,7 @@ Some of the popular ML Models
    
 2) Heart disease prediction - predicts if a person has heart disease or not.
     1--> True(Heart disease)
-    0--> False(No Heart disease)
+    0--> False(No Heart disease)\n
     Dataset:https://www.kaggle.com/johnsmith88/heart-disease-dataset
     Overview of data: $ age
                       $ sex
