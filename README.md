@@ -22,7 +22,7 @@ Some of the popular ML Models
                       $ exercise induced angina 
                       $ oldpeak = ST depression induced by exercise relative to rest    
                       $ the slope of the peak exercise ST segment   
-                      $ number of major vessels (0-3) colored by flourosopy 
+                      $ number of major vessels (0-3) colored by flourosopy     
                       $ thal: 0 = normal; 1 = fixed defect; 2 = reversable defect   
 
 
