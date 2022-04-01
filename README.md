@@ -26,5 +26,16 @@ Some of the popular ML Models
                       $ thal: 0 = normal; 1 = fixed defect; 2 = reversable defect   
 
 
+3) Car price prediction - predicts car prices using Linear and Lasso regression models.
+    Dataset:https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv
+    Overview of data: $ name    
+                      $ year    
+                      $ selling price
+                      $ km driven
+                      $ fuel
+                      $ seller type
+                      $ transmission
+                      $ owner
+
 
                     lot more to come...!
