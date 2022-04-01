@@ -30,12 +30,12 @@ Some of the popular ML Models
     Dataset:https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv
     Overview of data: $ name    
                       $ year    
-                      $ selling price
-                      $ km driven
-                      $ fuel
-                      $ seller type
-                      $ transmission
-                      $ owner
+                      $ selling price   
+                      $ km driven   
+                      $ fuel    
+                      $ seller type 
+                      $ transmission    
+                      $ owner   
 
 
                     lot more to come...!
